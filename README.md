@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Usman Ali
-- 👀 I’m interested in hardware security, microarchitectural side channel attacks
-- 🌱 I’m currently learning security and computer architecture
+- 👀 I’m working in hardware security, and microarchitectural side channel attacks
 - 💞️ I’m looking to collaborate on hardware security, microarchitectural side channel attacks
 - 📫 write to me at usman(dot)ali(at)uconn(dot)edu
 
